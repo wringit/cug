@@ -7,14 +7,7 @@ var admin = require("firebase-admin");
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB5SRG4q89s_agcJPmBnFQbGWngrYqCojs",
-  authDomain: "cugbot.firebaseapp.com",
-  databaseURL: "https://cugbot-default-rtdb.firebaseio.com",
-  projectId: "cugbot",
-  storageBucket: "cugbot.appspot.com",
-  messagingSenderId: "746769039517",
-  appId: "1:746769039517:web:f004969912ec7cd8199474",
-  measurementId: "G-7408CX65HP"
+  
 };
 
 
@@ -137,4 +130,4 @@ let blib = false;
 });
 
 
-client.login('OTAwODU2OTQwMDc3NDEyMzYy.YXHaZw.wTeKDfwBVA4bbq2LsD3iDDnbrok');
+client.login('');
